@@ -35,5 +35,10 @@
 ### 📊 GitHub Stats
 
 <p align="center">
- [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shayan-naghizadeh&layout=compact)](https://github.com/shayan-naghizadeh)
-</p>
+### 📊 GitHub Stats
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shayan-naghizadeh&layout=compact)](https://github.com/shayan-naghizadeh)
+
+[![Shayan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shayan-naghizadeh&show_icons=true&count_private=true)](https://github.com/shayan-naghizadeh)
+
+---</p>
