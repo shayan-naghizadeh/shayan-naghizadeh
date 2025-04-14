@@ -35,5 +35,5 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=default" />
+ [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shayan-naghizadeh&layout=compact)](https://github.com/shayan-naghizadeh)
 </p>
