@@ -18,26 +18,20 @@
 
 ### 🛠️ Skills
 
-- **Languages:** `Python`, `C++`, `Verilog`, `VHDL`
-- **Tools:** `Vitis`, `Vivado`, `ModelSim`, `Git`
+- **Languages:** `Python`, `C++`, `Verilog`, `VHDL`,`C`
+- **Tools:** `Vitis`, `Vivado`, `GEM5`
 - **Domains:** `Digital Design`, `SNN`, `FPGA`
 
----
 
-### 📁 Featured Projects
-
-| Project | Description | Tech |
-|--------|-------------|------|
-| [`SNN-on-FPGA`](#) | Spiking Neural Network implemented on FPGA s 
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-### 📊 GitHub Stats
+
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shayan-naghizadeh&layout=compact)](https://github.com/shayan-naghizadeh)
 
 
----</p>
+</p>
