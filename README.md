@@ -1,16 +1,39 @@
-## Hi there 👋
+# shayan-naghizadeh
+<h1 align="center">Hi there </h1>
 
-<!--
-**shayan-naghizadeh/shayan-naghizadeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+💻 Passionate about [e.g. FPGA, SNNs, Embedded Systems, Emerging memory] <br>
+🌱 Currently learning [e.g. VHDL, hardware arithmetic , HLS , PIM] <br>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 About Me
+
+- 🔬 I'm interested in digital design and neuromorphic computing
+- ⚡ Working on spiking neural networks on FPGA 
+- 🛠 I enjoy turning complex algorithms into efficient hardware designs
+
+---
+
+### 🛠️ Skills
+
+- **Languages:** `Python`, `C++`, `Verilog`, `VHDL`
+- **Tools:** `Vitis`, `Vivado`, `ModelSim`, `Git`
+- **Domains:** `Digital Design`, `SNN`, `FPGA`
+
+---
+
+### 📁 Featured Projects
+
+| Project | Description | Tech |
+|--------|-------------|------|
+| [`SNN-on-FPGA`](#) | Spiking Neural Network implemented on FPGA s 
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=default" />
+</p>
