@@ -20,7 +20,7 @@
 
 - **Languages:** `Python`, `C++`, `Verilog`, `VHDL`,`C`
 - **Tools:** `Vitis`, `Vivado`, `GEM5`
-- **Domains:** `Digital Design`, `SNN`, `FPGA`
+- **Domains:** `Digital Design`, `Reconfigurable computing`, `SNN`, `FPGA`
 
 
 
