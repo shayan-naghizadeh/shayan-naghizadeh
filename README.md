@@ -2,17 +2,17 @@
 <h1 align="center">Hi there </h1>
 
 <p align="center">
-💻 Passionate about [e.g. FPGA, SNNs, Embedded Systems, Emerging memory] <br>
-🌱 Currently learning [e.g. VHDL, hardware arithmetic , HLS , PIM] <br>
+ Passionate about [e.g. FPGA, SNNs, Embedded Systems, Emerging memory] <br>
+ Currently learning [e.g. VHDL, hardware arithmetic , HLS , PIM] <br>
 </p>
 
 ---
 
 ### 🧠 About Me
 
-- 🔬 I'm interested in digital design and neuromorphic computing
-- ⚡ Working on spiking neural networks on FPGA 
-- 🛠 I enjoy turning complex algorithms into efficient hardware designs
+-  I'm interested in digital design and neuromorphic computing
+-  Working on spiking neural networks on FPGA 
+-  I enjoy turning complex algorithms into efficient hardware designs
 
 ---
 
