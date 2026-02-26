@@ -29,10 +29,8 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shayan-naghizadeh&layout=compact)](https://github.com/shayan-naghizadeh)
-
-
-</p>
+<div align="center">
+  <a href="https://github.com/shayan-naghizadeh">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shayan-naghizadeh&layout=compact&theme=radical" alt="Top Languages" />
+  </a>
+</div>
