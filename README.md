@@ -1,29 +1,25 @@
-# shayan-naghizadeh
-<h1 align="center">Hi there </h1>
+<h1 align="center">Hi there, I'm Shayan 👋</h1>
 
 <p align="center">
- Passionate about [e.g. FPGA, SNNs, Embedded Systems, Emerging memory] <br>
- Currently learning [e.g. VHDL, hardware arithmetic , HLS , PIM] <br>
+ Passionate about FPGA, SNNs, Embedded Systems, and Emerging Memory. <br>
+ Currently learning VHDL, Hardware Arithmetic, HLS, and PIM. <br>
 </p>
 
 ---
 
 ### 🧠 About Me
 
--  I'm interested in digital design and neuromorphic computing
--  Working on spiking neural networks on FPGA 
--  I enjoy turning complex algorithms into efficient hardware designs
+- 🔭 I'm interested in **Digital Design** and **Neuromorphic Computing**.
+- ⚡ Working on **Spiking Neural Networks (SNN)** on FPGA.
+- 🛠 I enjoy turning complex algorithms into efficient hardware designs.
 
 ---
 
 ### 🛠️ Skills
 
-- **Languages:** `Python`, `C++`, `Verilog`, `VHDL`,`C`
-- **Tools:** `Vitis`, `Vivado`, `GEM5`
-- **Domains:** `Digital Design`, `Reconfigurable computing`, `SNN`
-  
-
-
+- **Languages:** `Verilog`, `VHDL`, `C`, `C++`, `Python`
+- **Tools:** `Vivado`, `Vitis`, `GEM5`
+- **Domains:** `Digital Design`, `Reconfigurable Computing`, `SNN`
 
 ---
 
@@ -31,6 +27,6 @@
 
 <p align="center">
   <a href="https://github.com/shayan-naghizadeh">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shayan-naghizadeh&layout=compact" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shayan-naghizadeh&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
   </a>
 </p>
