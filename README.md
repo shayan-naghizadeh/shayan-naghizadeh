@@ -23,10 +23,3 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/shayan-naghizadeh">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shayan-naghizadeh&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
-  </a>
-</p>
